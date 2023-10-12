@@ -4,6 +4,6 @@
 
 
 #### :two_hearts: Welcome to my github profile ! :two_hearts:
+**here is my [Blog](https://memezz.tistory.com/)**
 <br/>
-here is my [Blog](https://memezz.tistory.com/)
 </div>
