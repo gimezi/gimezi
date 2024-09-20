@@ -47,4 +47,10 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimezi&layout=compact)
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimezi&layout=compact)
+  [![백준](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeji1107)](https://solved.ac/yeji1107)
+
+</div>
+
