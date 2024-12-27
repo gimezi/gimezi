@@ -14,7 +14,7 @@
 **birth**: 1997.11.07  
 **email**: yeji11077@gmail.com  
 **github**: [@gimezi](https://github.com/gimezi)  
-**Links**: [blog](https://memezz.tistory.com/), [portfolio](https://memezzi.notion.site/Kim-Yeji-1771ff61ce62468aaba1fa317c76b556?pvs=4)
+**Links**: [blog](https://memezz.tistory.com/), [portfolio](https://drive.google.com/file/d/1PsBgu8-vrfU2Azl--u5Sqi0SHYxqNsw7/view?usp=sharing)
 
 
 ## 🛠 Skills
